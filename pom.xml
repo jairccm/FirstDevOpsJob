@@ -53,7 +53,7 @@
            <packaging.type>jar</packaging.type>
            <spring.profiles.active>dev</spring.profiles.active>
        </properties>
-   </profile>-->
+   </profile> -->
    <profile>
        <id>war</id>
        <properties>
