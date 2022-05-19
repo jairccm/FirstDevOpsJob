@@ -46,6 +46,7 @@
 	
 	
 <packaging>${packaging.type}</packaging>	
+	
  <profiles>
   <profile>
        <id>jar</id>
